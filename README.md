@@ -52,14 +52,16 @@ Favorite books are marked with a *
 * [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.amazon.com/Conspiracy-against-Human-Race-Contrivance/dp/0984480277) - Thomas Ligotti \*
 * [On Escape](https://www.amazon.com/Escape-Author-Emmanuel-Levinas-published/dp/B00Y2RSZAO) - Emmanuel Levinas
 * [Philosophy and Simulation](https://www.amazon.com/Philosophy-Simulation-Emergence-Synthetic-Reason/dp/1441170286) - Manuel DeLanda
+* [Aphorisms](https://www.amazon.com/Aphorisms-Schocken-Kafka-Library-Franz/dp/0805212655) - Franz Kafka
 
 ##Biology
 
 * [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.amazon.com/Feeling-What-Happens-Emotion-Consciousness/dp/0156010755) - Antonio Damasio \*
 
-##Technology
+##Technology/Startups
 
 * [The New New Thing: A Silicon Valley Story](https://www.amazon.com/New-Thing-Silicon-Valley-Story/dp/0393347818) - Michael Lewis \*
+* [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - Ben Horowitz
 
 ##Poetry
 
