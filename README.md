@@ -23,6 +23,7 @@ Favorite books are marked with a *
 ##Fiction
 
 * [Tinkers](https://www.amazon.com/Tinkers-Paul-Harding/dp/193413712X) - Paul Harding \*
+* [All the Light We Cannot See](https://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583) - Anthony Doerr
 
 ##Essays
 
