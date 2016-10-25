@@ -48,6 +48,7 @@ Favorite books are marked with a *
 
 ##Philosophy
 
+* [Being And Nothingness](https://www.amazon.com/Being-Nothingness-Jean-Paul-Sartre/dp/0671867806) - Jean-Paul Sartre \*
 * [Seeing Things As They Are: A Theory of Perception](https://www.amazon.com/Seeing-Things-They-Are-Perception/dp/0199385157) - John Searle
 * [Causation: A Very Short Introduction](https://www.amazon.com/Causation-Very-Short-Introduction-Introductions/dp/019968443X) - Stephen Mumford, Rani Lill Anjum
 * [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.amazon.com/Conspiracy-against-Human-Race-Contrivance/dp/0984480277) - Thomas Ligotti \*
@@ -58,6 +59,7 @@ Favorite books are marked with a *
 ##Biology
 
 * [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.amazon.com/Feeling-What-Happens-Emotion-Consciousness/dp/0156010755) - Antonio Damasio \*
+* [Anxious: Using the Brain to Understand and Treat Fear and Anxiety](https://www.amazon.com/Anxious-Using-Brain-Understand-Anxiety/dp/0143109049) - Joseph LeDoux
 
 ##Technology/Startups
 
