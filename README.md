@@ -12,6 +12,7 @@ Favorite books are marked with a *
 * [Essays](#essays)
 * [Memoirs](#memoirs)
 * [Economy](#economy)
+* [Politics](#politics)
 * [Science](#science)
 * [Philosophy](#philosophy)
 * [Biology](#biology)
@@ -32,6 +33,10 @@ Favorite books are marked with a *
 ##Economy
 
 * [The Great Escape, health, wealth, and the origins of inequality](https://www.amazon.com/Great-Escape-Health-Origins-Inequality/dp/0691165629) - Angus Deaton
+
+##Politics
+
+* [The Fat Tail: The Power of Political Knowledge in an Uncertain World](https://www.amazon.com/Fat-Tail-Political-Knowledge-Uncertain/dp/0199737274) - Ian Bremmer, Preston Keat
 
 ##Memoirs
 
