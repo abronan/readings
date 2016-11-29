@@ -2,7 +2,7 @@
 
 Following is a list of all the books that I've finished (beginning *March 16th 2015*) or are in the process of reading. This list will be regularly updated with new books.
 
-Although all the books include a link to Amazon, please consider supporting your local bookstore instead.
+Please consider supporting your local bookstore if buying one of these.
 
 Favorite books are marked with a *
 
@@ -23,67 +23,67 @@ Favorite books are marked with a *
 
 ##Fiction
 
-* [Tinkers](https://www.amazon.com/Tinkers-Paul-Harding/dp/193413712X) - Paul Harding \*
-* [All the Light We Cannot See](https://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583) - Anthony Doerr
+* [Tinkers](https://www.goodreads.com/book/show/4957350-tinkers?from_search=true) - Paul Harding \*
+* [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_search=true) - Anthony Doerr
 
 ##Essays
 
-* [Learning to Die in the Anthropocene](https://www.amazon.com/Learning-Die-Anthropocene-Reflections-Civilization/dp/0872866696) - Roy Scranton
+* [Learning to Die in the Anthropocene](https://www.goodreads.com/book/show/25330145-learning-to-die-in-the-anthropocene?from_search=true) - Roy Scranton
 
 ##Economy
 
-* [The Great Escape, health, wealth, and the origins of inequality](https://www.amazon.com/Great-Escape-Health-Origins-Inequality/dp/0691165629) - Angus Deaton
+* [The Great Escape, health, wealth, and the origins of inequality](https://www.goodreads.com/book/show/17942017-the-great-escape?from_search=true) - Angus Deaton
 
 ##Politics
 
-* [The Fat Tail: The Power of Political Knowledge in an Uncertain World](https://www.amazon.com/Fat-Tail-Political-Knowledge-Uncertain/dp/0199737274) - Ian Bremmer, Preston Keat
+* [The Fat Tail: The Power of Political Knowledge in an Uncertain World](https://www.goodreads.com/book/show/5369144-the-fat-tail?from_search=true) - Ian Bremmer, Preston Keat
 
 ##Memoirs
 
-* [When Breath Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X) - Paul Kalanithi *
+* [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?from_search=true) - Paul Kalanithi *
 
 ##Science
 
-* [Future Science - Essays From the Cutting Edge](https://www.amazon.com/Future-Science-Essays-Cutting-Edge/dp/0307741915) - Max Brockman
-* [This Will Make You Smarter](https://www.amazon.com/This-Will-Make-You-Smarter/dp/0062109391) - John Brockman
-* [Time Reborn: From the Crisis in Physics to the Future of the Universe](https://www.amazon.com/Time-Reborn-Crisis-Physics-Universe/dp/0544245598) - Lee Smolin
-* [Galaxy: Mapping the Cosmos](https://www.amazon.com/Galaxy-Mapping-Cosmos-James-Geach/dp/1780233639) - James Geach
-* [Cosmos](https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354) - Carl Sagan
-* [How To Lie With Statistics](https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728) - Darrell Huff
+* [Future Science - Essays From the Cutting Edge](https://www.goodreads.com/book/show/11114730-future-science?from_search=true) - Max Brockman
+* [This Will Make You Smarter](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter?from_search=true) - John Brockman
+* [Time Reborn: From the Crisis in Physics to the Future of the Universe](https://www.goodreads.com/book/show/15816556-time-reborn?from_search=true) - Lee Smolin
+* [Galaxy: Mapping the Cosmos](https://www.goodreads.com/book/show/20763485-galaxy?from_search=true) - James Geach
+* [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos?from_search=true) - Carl Sagan
+* [How To Lie With Statistics](https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics?from_search=true) - Darrell Huff
 
 ##Philosophy
 
-* [Being And Nothingness](https://www.amazon.com/Being-Nothingness-Jean-Paul-Sartre/dp/0671867806) - Jean-Paul Sartre \*
-* [Seeing Things As They Are: A Theory of Perception](https://www.amazon.com/Seeing-Things-They-Are-Perception/dp/0199385157) - John Searle
-* [Causation: A Very Short Introduction](https://www.amazon.com/Causation-Very-Short-Introduction-Introductions/dp/019968443X) - Stephen Mumford, Rani Lill Anjum
-* [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.amazon.com/Conspiracy-against-Human-Race-Contrivance/dp/0984480277) - Thomas Ligotti \*
-* [On Escape](https://www.amazon.com/Escape-Author-Emmanuel-Levinas-published/dp/B00Y2RSZAO) - Emmanuel Levinas
-* [Philosophy and Simulation](https://www.amazon.com/Philosophy-Simulation-Emergence-Synthetic-Reason/dp/1441170286) - Manuel DeLanda
-* [Aphorisms](https://www.amazon.com/Aphorisms-Schocken-Kafka-Library-Franz/dp/0805212655) - Franz Kafka
+* [Being And Nothingness](https://www.goodreads.com/book/show/10033.Being_and_Nothingness?from_search=true) - Jean-Paul Sartre \*
+* [Seeing Things As They Are: A Theory of Perception](https://www.goodreads.com/book/show/22104265-seeing-things-as-they-are?from_search=true) - John Searle
+* [Causation: A Very Short Introduction](https://www.goodreads.com/book/show/17847501-causation?ac=1&from_search=true) - Stephen Mumford, Rani Lill Anjum
+* [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.goodreads.com/book/show/8524528-the-conspiracy-against-the-human-race?ac=1&from_search=true) - Thomas Ligotti \*
+* [On Escape](https://www.goodreads.com/book/show/303075.On_Escape?from_search=true) - Emmanuel Levinas
+* [Philosophy and Simulation](https://www.goodreads.com/book/show/10393464-philosophy-and-simulation?from_search=true) - Manuel DeLanda
+* [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms?from_search=true) - Franz Kafka
 
 ##Biology
 
-* [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.amazon.com/Feeling-What-Happens-Emotion-Consciousness/dp/0156010755) - Antonio Damasio \*
-* [Anxious: Using the Brain to Understand and Treat Fear and Anxiety](https://www.amazon.com/Anxious-Using-Brain-Understand-Anxiety/dp/0143109049) - Joseph LeDoux
+* [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.goodreads.com/book/show/125777.The_Feeling_of_What_Happens?from_search=true) - Antonio Damasio \*
+* [Anxious: Using the Brain to Understand and Treat Fear and Anxiety](https://www.goodreads.com/book/show/23398722-anxious?ac=1&from_search=true) - Joseph LeDoux
 
 ##Technology/Startups
 
-* [The New New Thing: A Silicon Valley Story](https://www.amazon.com/New-Thing-Silicon-Valley-Story/dp/0393347818) - Michael Lewis \*
-* [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - Ben Horowitz
+* [The New New Thing: A Silicon Valley Story](https://www.goodreads.com/book/show/17986421-the-new-new-thing?from_search=true) - Michael Lewis \*
+* [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?ac=1&from_search=true) - Ben Horowitz
 
 ##Poetry
 
-* [Failure](https://www.amazon.com/Failure-Philip-Schultz/dp/0156031280) - Philip Schultz \*
-* [Faithful and Virtuous Night](https://www.amazon.com/Faithful-Virtuous-Night-Louise-Gl%C3%BCck/dp/0374152012) - Louise Gluck
-* [Delights & Shadows](https://www.amazon.com/Delights-Shadows-Ted-Kooser/dp/1556592019) - Ted Kooser
+* [Failure](https://www.goodreads.com/book/show/2029835.Failure?from_search=true) - Philip Schultz \*
+* [Faithful and Virtuous Night](https://www.goodreads.com/book/show/20613826-faithful-and-virtuous-night?ac=1&from_search=true) - Louise Gluck
+* [Delights & Shadows](https://www.goodreads.com/book/show/239229.Delights_and_Shadows?ac=1&from_search=true) - Ted Kooser
 
 ##Self-Development
 
-* [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
-* [The Opposable Mind: Winning Through Integrative Thinking](https://www.amazon.com/Opposable-Mind-Winning-Integrative-Thinking/dp/1422139778) - Roger Martin
-* [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808) - Eckhart Tolle
-* [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930) - Malcolm Gladwell
+* [Thinking Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow?from_search=true) - Daniel Kahneman
+* [The Opposable Mind: Winning Through Integrative Thinking](https://www.goodreads.com/book/show/2001132.The_Opposable_Mind?ac=1&from_search=true) - Roger Martin
+* [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true) - Eckhart Tolle
+* [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
 
 ##Writing
 
-* [Several Short Sentences About Writing](https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413) - Verlyn Klinkenborg \*
+* [Several Short Sentences About Writing](https://www.goodreads.com/book/show/13155290-several-short-sentences-about-writing?ac=1&from_search=true) - Verlyn Klinkenborg \*
