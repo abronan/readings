@@ -80,6 +80,7 @@ Favorite books are marked with a *
 ##Self-Development
 
 * [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
+* [The Opposable Mind: Winning Through Integrative Thinking](https://www.amazon.com/Opposable-Mind-Winning-Integrative-Thinking/dp/1422139778) - Roger Martin
 * [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808) - Eckhart Tolle
 * [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930) - Malcolm Gladwell
 
