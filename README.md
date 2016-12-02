@@ -17,6 +17,8 @@ Favorite books are marked with a *
 * [Philosophy](#philosophy)
 * [Biology](#biology)
 * [Poetry](#poetry)
+* [Technology/Startups](#technology-startups)
+* [Design/Branding/Marketing](#design-branding-marketing)
 * [Self-Development](#self-development)
 * [Writing](#writing)
 
@@ -66,10 +68,14 @@ Favorite books are marked with a *
 * [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.goodreads.com/book/show/125777.The_Feeling_of_What_Happens?from_search=true) - Antonio Damasio \*
 * [Anxious: Using the Brain to Understand and Treat Fear and Anxiety](https://www.goodreads.com/book/show/23398722-anxious?ac=1&from_search=true) - Joseph LeDoux
 
-##Technology/Startups
+##Technology-Startups
 
 * [The New New Thing: A Silicon Valley Story](https://www.goodreads.com/book/show/17986421-the-new-new-thing?from_search=true) - Michael Lewis \*
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?ac=1&from_search=true) - Ben Horowitz
+
+##Design-Branding-Marketing
+
+* [Positioning The Brand: an inside-out approach](https://www.goodreads.com/book/show/13714811-positioning-the-brand?from_search=true) - Jaap Van Der Grinten, Rik Riezebos
 
 ##Poetry
 
