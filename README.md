@@ -42,7 +42,8 @@ Favorite books are marked with a *
 
 ##Memoirs
 
-* [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?from_search=true) - Paul Kalanithi *
+* [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?from_search=true) - Paul Kalanithi
+* [Julian Assange - The Unauthorised Autobiography](https://www.goodreads.com/book/show/12689645-julian-assange---the-unauthorised-autobiography) - Julian Assange, Andrew O'Hagan
 
 ##Science
 
