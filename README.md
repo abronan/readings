@@ -28,6 +28,12 @@ Favorite books are marked with a *
 * [Tinkers](https://www.goodreads.com/book/show/4957350-tinkers?from_search=true) - Paul Harding \*
 * [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_search=true) - Anthony Doerr
 
+##Non-Fiction
+
+* [The Undoing Project: A Friendship That Changed Our Minds](https://www.goodreads.com/book/show/30334134-the-undoing-project) - Michael Lewis *
+* [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
+* [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
+
 ##Essays
 
 * [Learning to Die in the Anthropocene](https://www.goodreads.com/book/show/25330145-learning-to-die-in-the-anthropocene?from_search=true) - Roy Scranton
@@ -89,7 +95,7 @@ Favorite books are marked with a *
 * [Thinking Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow?from_search=true) - Daniel Kahneman
 * [The Opposable Mind: Winning Through Integrative Thinking](https://www.goodreads.com/book/show/2001132.The_Opposable_Mind?ac=1&from_search=true) - Roger Martin
 * [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true) - Eckhart Tolle
-* [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
+* [Turning Pro](https://www.goodreads.com/book/show/14912777-turning-pro) - Steven Pressfield
 
 ##Writing
 
