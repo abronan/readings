@@ -1,42 +1,45 @@
 #Readings
 
-Following is a list of all the books that I've finished (beginning *March 16th 2015*) or are in the process of reading. This list will be regularly updated with new books.
+A raw list of my readings.
 
 Please consider supporting your local bookstore if buying one of these.
 
-Favorite books are marked with a *
+Favorite books are marked with a **[\*]**
 
 #Genre
 
 * [Fiction](#fiction)
+* [Non-Fiction](#non-fiction)
 * [Essays](#essays)
 * [Memoirs](#memoirs)
 * [Economy](#economy)
 * [Politics](#politics)
 * [Science](#science)
 * [Philosophy](#philosophy)
+* [Psychology](#psychology)
 * [Biology](#biology)
-* [Poetry](#poetry)
 * [Technology/Startups](#technology-startups)
 * [Design/Branding/Marketing](#design-branding-marketing)
+* [Poetry](#poetry)
 * [Self-Development](#self-development)
 * [Writing](#writing)
 
 
 ##Fiction
 
-* [Tinkers](https://www.goodreads.com/book/show/4957350-tinkers?from_search=true) - Paul Harding \*
+* [Tinkers](https://www.goodreads.com/book/show/4957350-tinkers?from_search=true) - Paul Harding **[\*]**
 * [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_search=true) - Anthony Doerr
 
 ##Non-Fiction
 
-* [The Undoing Project: A Friendship That Changed Our Minds](https://www.goodreads.com/book/show/30334134-the-undoing-project) - Michael Lewis *
+* [The Undoing Project: A Friendship That Changed Our Minds](https://www.goodreads.com/book/show/30334134-the-undoing-project) - Michael Lewis **[\*]**
 * [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
 
 ##Essays
 
 * [Learning to Die in the Anthropocene](https://www.goodreads.com/book/show/25330145-learning-to-die-in-the-anthropocene?from_search=true) - Roy Scranton
+* [The Divided Brain and the Search for Meaning](https://www.goodreads.com/book/show/18901042-the-divided-brain-and-the-search-for-meaning) - Iain McGilchrist
 
 ##Economy
 
@@ -62,22 +65,26 @@ Favorite books are marked with a *
 
 ##Philosophy
 
-* [Being And Nothingness](https://www.goodreads.com/book/show/10033.Being_and_Nothingness?from_search=true) - Jean-Paul Sartre \*
+* [Being And Nothingness](https://www.goodreads.com/book/show/10033.Being_and_Nothingness?from_search=true) - Jean-Paul Sartre **[\*]**
+* [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.goodreads.com/book/show/8524528-the-conspiracy-against-the-human-race?ac=1&from_search=true) - Thomas Ligotti **[\*]**
 * [Seeing Things As They Are: A Theory of Perception](https://www.goodreads.com/book/show/22104265-seeing-things-as-they-are?from_search=true) - John Searle
 * [Causation: A Very Short Introduction](https://www.goodreads.com/book/show/17847501-causation?ac=1&from_search=true) - Stephen Mumford, Rani Lill Anjum
-* [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.goodreads.com/book/show/8524528-the-conspiracy-against-the-human-race?ac=1&from_search=true) - Thomas Ligotti \*
 * [On Escape](https://www.goodreads.com/book/show/303075.On_Escape?from_search=true) - Emmanuel Levinas
 * [Philosophy and Simulation](https://www.goodreads.com/book/show/10393464-philosophy-and-simulation?from_search=true) - Manuel DeLanda
 * [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms?from_search=true) - Franz Kafka
 
+##Psychology
+
+* [Psychopath Free: Recovering from Emotionally Abusive Relationships With Narcissists, Sociopaths, & Other Toxic People](https://www.goodreads.com/book/show/17731942-psychopath-free?ac=1&from_search=true) - Jackson MacKenzie
+
 ##Biology
 
-* [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.goodreads.com/book/show/125777.The_Feeling_of_What_Happens?from_search=true) - Antonio Damasio \*
+* [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.goodreads.com/book/show/125777.The_Feeling_of_What_Happens?from_search=true) - Antonio Damasio **[\*]**
 * [Anxious: Using the Brain to Understand and Treat Fear and Anxiety](https://www.goodreads.com/book/show/23398722-anxious?ac=1&from_search=true) - Joseph LeDoux
 
 ##Technology-Startups
 
-* [The New New Thing: A Silicon Valley Story](https://www.goodreads.com/book/show/17986421-the-new-new-thing?from_search=true) - Michael Lewis \*
+* [The New New Thing: A Silicon Valley Story](https://www.goodreads.com/book/show/17986421-the-new-new-thing?from_search=true) - Michael Lewis **[\*]**
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?ac=1&from_search=true) - Ben Horowitz
 
 ##Design-Branding-Marketing
@@ -86,7 +93,7 @@ Favorite books are marked with a *
 
 ##Poetry
 
-* [Failure](https://www.goodreads.com/book/show/2029835.Failure?from_search=true) - Philip Schultz \*
+* [Failure](https://www.goodreads.com/book/show/2029835.Failure?from_search=true) - Philip Schultz **[\*]**
 * [Faithful and Virtuous Night](https://www.goodreads.com/book/show/20613826-faithful-and-virtuous-night?ac=1&from_search=true) - Louise Gluck
 * [Delights & Shadows](https://www.goodreads.com/book/show/239229.Delights_and_Shadows?ac=1&from_search=true) - Ted Kooser
 
@@ -99,4 +106,4 @@ Favorite books are marked with a *
 
 ##Writing
 
-* [Several Short Sentences About Writing](https://www.goodreads.com/book/show/13155290-several-short-sentences-about-writing?ac=1&from_search=true) - Verlyn Klinkenborg \*
+* [Several Short Sentences About Writing](https://www.goodreads.com/book/show/13155290-several-short-sentences-about-writing?ac=1&from_search=true) - Verlyn Klinkenborg **[\*]**
