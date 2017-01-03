@@ -69,6 +69,7 @@ Favorite books are marked with a **[\*]**
 * [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.goodreads.com/book/show/8524528-the-conspiracy-against-the-human-race?ac=1&from_search=true) - Thomas Ligotti **[\*]**
 * [Seeing Things As They Are: A Theory of Perception](https://www.goodreads.com/book/show/22104265-seeing-things-as-they-are?from_search=true) - John Searle
 * [Causation: A Very Short Introduction](https://www.goodreads.com/book/show/17847501-causation?ac=1&from_search=true) - Stephen Mumford, Rani Lill Anjum
+* [Square One: The Foundations of Knowledge](https://www.amazon.com/dp/B01M9JL27L/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=stevepatte-20&linkId=84e1ef535102b96acf62739f284b0519) - Steve Patterson
 * [On Escape](https://www.goodreads.com/book/show/303075.On_Escape?from_search=true) - Emmanuel Levinas
 * [Philosophy and Simulation](https://www.goodreads.com/book/show/10393464-philosophy-and-simulation?from_search=true) - Manuel DeLanda
 * [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms?from_search=true) - Franz Kafka
