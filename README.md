@@ -29,10 +29,12 @@ Favorite books are marked with a **[\*]**
 
 * [Tinkers](https://www.goodreads.com/book/show/4957350-tinkers?from_search=true) - Paul Harding **[\*]**
 * [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_search=true) - Anthony Doerr
+* [The Snow Child](https://www.goodreads.com/book/show/11250053-the-snow-child) - Eowyn Ivey
 
 ##Non-Fiction
 
 * [The Undoing Project: A Friendship That Changed Our Minds](https://www.goodreads.com/book/show/30334134-the-undoing-project) - Michael Lewis **[\*]**
+* [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](http://www.goodreads.com/book/show/22245334-the-utopia-of-rules) - David Graeber **[\*]**
 * [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
 
