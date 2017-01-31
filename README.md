@@ -103,6 +103,7 @@ Favorite books are marked with a **[\*]**
 ##Self-Development
 
 * [Thinking Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow?from_search=true) - Daniel Kahneman
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) - Cal Newport
 * [The Opposable Mind: Winning Through Integrative Thinking](https://www.goodreads.com/book/show/2001132.The_Opposable_Mind?ac=1&from_search=true) - Roger Martin
 * [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true) - Eckhart Tolle
 * [Turning Pro](https://www.goodreads.com/book/show/14912777-turning-pro) - Steven Pressfield
