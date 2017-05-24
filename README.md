@@ -38,6 +38,7 @@ Favorite books are marked with a **[\*]**
 * [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](http://www.goodreads.com/book/show/22245334-the-utopia-of-rules) - David Graeber **[\*]**
 * [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
+* [The Improbability Principle: Why Coincidences, Miracles, and Rare Events Happen Every Day](http://www.goodreads.com/book/show/17934639-the-improbability-principle) - David J. Hand
 
 ## Essays
 
