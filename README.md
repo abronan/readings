@@ -70,6 +70,7 @@ Favorite books are marked with a **[\*]**
 
 ## Philosophy
 
+* [Being and Time](https://www.goodreads.com/book/show/92307.Being_and_Time) - Martin Heidegger
 * [Being And Nothingness](https://www.goodreads.com/book/show/10033.Being_and_Nothingness?from_search=true) - Jean-Paul Sartre **[\*]**
 * [The Conspiracy against the Human Race - A Contrivance of Horror](https://www.goodreads.com/book/show/8524528-the-conspiracy-against-the-human-race?ac=1&from_search=true) - Thomas Ligotti **[\*]**
 * [Seeing Things As They Are: A Theory of Perception](https://www.goodreads.com/book/show/22104265-seeing-things-as-they-are?from_search=true) - John Searle
