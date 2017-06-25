@@ -67,6 +67,7 @@ Favorite books are marked with a **[\*]**
 * [Galaxy: Mapping the Cosmos](https://www.goodreads.com/book/show/20763485-galaxy?from_search=true) - James Geach
 * [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos?from_search=true) - Carl Sagan
 * [How To Lie With Statistics](https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics?from_search=true) - Darrell Huff
+* [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/26810258-seven-brief-lessons-on-physics) - Carlo Rovelli
 
 ## Philosophy
 
