@@ -36,6 +36,7 @@ Favorite books are marked with a **[\*]**
 
 * [The Undoing Project: A Friendship That Changed Our Minds](https://www.goodreads.com/book/show/30334134-the-undoing-project) - Michael Lewis **[\*]**
 * [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](http://www.goodreads.com/book/show/22245334-the-utopia-of-rules) - David Graeber **[\*]**
+* [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/book/show/32919530-a-mind-at-play) - Jimmy Soni, Rob Goodman
 * [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers?ac=1&from_search=true) - Malcolm Gladwell
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
 * [The Improbability Principle: Why Coincidences, Miracles, and Rare Events Happen Every Day](http://www.goodreads.com/book/show/17934639-the-improbability-principle) - David J. Hand
