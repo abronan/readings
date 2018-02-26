@@ -86,6 +86,7 @@ Favorite books are marked with a **[\*]**
 
 ## Psychology
 
+* [The Psychopath Code: Cracking The Predators That Stalk Us](https://www.goodreads.com/book/show/27211285-the-psychopath-code) - Pieter Hintjens
 * [Psychopath Free: Recovering from Emotionally Abusive Relationships With Narcissists, Sociopaths, & Other Toxic People](https://www.goodreads.com/book/show/17731942-psychopath-free) - Jackson MacKenzie
 
 ## Biology
