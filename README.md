@@ -1,6 +1,6 @@
 # Readings
 
-A raw list of my readings.
+A raw list of my readings (without reviews). Take this as a pool of resources and links that could help you find your next book. If a book ends up on this list, this means that it contributed to expand my mind and discover new interesting ideas and topics.
 
 Please consider supporting your local bookstore if buying one of these.
 
@@ -87,6 +87,7 @@ Favorite books are marked with a **[\*]**
 
 ## Psychology
 
+* [Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions](https://www.goodreads.com/book/show/34921573-lost-connections) - Johann Hari **[*]**
 * [The Psychopath Code: Cracking The Predators That Stalk Us](https://www.goodreads.com/book/show/27211285-the-psychopath-code) - Pieter Hintjens
 * [Psychopath Free: Recovering from Emotionally Abusive Relationships With Narcissists, Sociopaths, & Other Toxic People](https://www.goodreads.com/book/show/17731942-psychopath-free) - Jackson MacKenzie
 
