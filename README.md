@@ -51,6 +51,7 @@ Favorite books are marked with a **[\*]**
 ## Economy
 
 * [Debt: The First 5,000 Years](https://www.goodreads.com/book/show/6617037-debt) - David Graeber **[\*]**
+* [The Growth Delusion: Wealth, Poverty, and the Well-being of Nations](https://www.goodreads.com/book/show/36130581-the-growth-delusion) - David Pilling
 * [The Great Escape, health, wealth, and the origins of inequality](https://www.goodreads.com/book/show/17942017-the-great-escape) - Angus Deaton
 * [Naked Money: A Revealing Look at Our Financial System](https://www.goodreads.com/book/show/25622864-naked-money) - Charles Wheelan
 
