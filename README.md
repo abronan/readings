@@ -27,6 +27,7 @@ Favorite books are marked with a **[\*]**
 
 ## Fiction
 
+* [Stoner](https://www.goodreads.com/book/show/166997.Stoner) - John Williams **[\*]**
 * [Tinkers](https://www.goodreads.com/book/show/4957350-tinkers) - Paul Harding **[\*]**
 * [The Sense of an Ending](https://www.goodreads.com/book/show/10746542-the-sense-of-an-ending) - Julian Barnes
 * [The Noise of Time](https://www.goodreads.com/book/show/25912206-the-noise-of-time) - Julian Barnes
