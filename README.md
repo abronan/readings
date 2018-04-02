@@ -86,6 +86,7 @@ Favorite books are marked with a **[\*]**
 * [On Escape](https://www.goodreads.com/book/show/303075.On_Escape) - Emmanuel Levinas
 * [Philosophy and Simulation](https://www.goodreads.com/book/show/10393464-philosophy-and-simulation) - Manuel DeLanda
 * [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms) - Franz Kafka
+* [On the Shortness of Life](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life) - Seneca
 
 ## Psychology
 
