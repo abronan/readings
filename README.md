@@ -43,6 +43,7 @@ Favorite books are marked with a **[\*]**
 * [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers) - Malcolm Gladwell
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
 * [The Improbability Principle: Why Coincidences, Miracles, and Rare Events Happen Every Day](http://www.goodreads.com/book/show/17934639-the-improbability-principle) - David J. Hand
+* [Simplicity](https://www.goodreads.com/book/show/2197895.Simplicity) - Edward de Bono
 
 ## Essays
 
