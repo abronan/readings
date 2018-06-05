@@ -89,6 +89,7 @@ Favorite books are marked with a **[\*]**
 * [Philosophy and Simulation](https://www.goodreads.com/book/show/10393464-philosophy-and-simulation) - Manuel DeLanda
 * [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms) - Franz Kafka
 * [On the Shortness of Life](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life) - Seneca
+* [Human, All Too Human](https://www.goodreads.com/book/show/451565.Human_All_Too_Human) - Friedrich Nietzsche **[\*]**
 
 ## Psychology
 
