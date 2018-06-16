@@ -44,7 +44,8 @@ Favorite books are marked with a **[\*]**
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - David Deutsch
 * [The Improbability Principle: Why Coincidences, Miracles, and Rare Events Happen Every Day](http://www.goodreads.com/book/show/17934639-the-improbability-principle) - David J. Hand
 * [Simplicity](https://www.goodreads.com/book/show/2197895.Simplicity) - Edward de Bono
-* [Elastic - Flexible Thinking in a Time of Change](https://www.goodreads.com/book/show/34342016-elastic) - Leonard Mlodinow
+* [Elastic: Flexible Thinking in a Time of Change](https://www.goodreads.com/book/show/34342016-elastic) - Leonard Mlodinow
+* [Moral Mazes: The World of Corporate Managers](https://www.goodreads.com/book/show/279812.Moral_Mazes) - Robert Jackall
 
 ## Essays
 
