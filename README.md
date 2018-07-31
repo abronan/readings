@@ -70,6 +70,7 @@ Favorite books are marked with a **[\*]**
 
 ## Science
 
+* [Reality is Not What it Seems: The Journey to Quantum Gravity](https://www.goodreads.com/book/show/29767627-reality-is-not-what-it-seems) - Carlo Rovelli **[\*]**
 * [Future Science - Essays From the Cutting Edge](https://www.goodreads.com/book/show/11114730-future-science) - Max Brockman
 * [This Will Make You Smarter](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) - John Brockman
 * [Time Reborn: From the Crisis in Physics to the Future of the Universe](https://www.goodreads.com/book/show/15816556-time-reborne) - Lee Smolin
