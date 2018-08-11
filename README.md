@@ -16,6 +16,7 @@ Favorite books are marked with a **[\*]**
 * [Politics](#politics)
 * [Science](#science)
 * [Philosophy](#philosophy)
+* [Sociology](#sociology)
 * [Psychology](#psychology)
 * [Biology](#biology)
 * [Technology/Startups](#technology-startups)
@@ -92,6 +93,10 @@ Favorite books are marked with a **[\*]**
 * [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms) - Franz Kafka
 * [On the Shortness of Life](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life) - Seneca
 * [Human, All Too Human](https://www.goodreads.com/book/show/451565.Human_All_Too_Human) - Friedrich Nietzsche **[\*]**
+
+## Sociology
+
+* [The Social Construction of Reality: A Treatise in the Sociology of Knowledge](https://www.goodreads.com/book/show/51726.The_Social_Construction_of_Reality) - Peter L. Berger, Thomas Luckmann
 
 ## Psychology
 
