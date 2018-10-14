@@ -59,6 +59,7 @@ Favorite books are marked with a **[\*]**
 * [The Growth Delusion: Wealth, Poverty, and the Well-being of Nations](https://www.goodreads.com/book/show/36130581-the-growth-delusion) - David Pilling
 * [The Great Escape, health, wealth, and the origins of inequality](https://www.goodreads.com/book/show/17942017-the-great-escape) - Angus Deaton
 * [Naked Money: A Revealing Look at Our Financial System](https://www.goodreads.com/book/show/25622864-naked-money) - Charles Wheelan
+* [Le mythe de la "théorie du ruissellement" - The Myth of the "Trickle-down effect" (French)](http://www.editionsladecouverte.fr/catalogue/index-Le_mythe_de_la_a__th__orie_du_ruissellement_a_-9782348036347.html) - Arnaud Parienty
 
 ## Politics
 
