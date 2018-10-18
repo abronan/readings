@@ -19,7 +19,7 @@ Favorite books are marked with a **[\*]**
 * [Sociology](#sociology)
 * [Psychology](#psychology)
 * [Biology](#biology)
-* [Technology/Startups](#technology-startups)
+* [Technology/Startups/Business](#technology-startups-business)
 * [Design/Branding/Marketing](#design-branding-marketing)
 * [Poetry](#poetry)
 * [Self-Development](#self-development)
@@ -110,10 +110,11 @@ Favorite books are marked with a **[\*]**
 * [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.goodreads.com/book/show/125777.The_Feeling_of_What_Happens) - Antonio Damasio **[\*]**
 * [Anxious: Using the Brain to Understand and Treat Fear and Anxiety](https://www.goodreads.com/book/show/23398722-anxious) - Joseph LeDoux
 
-## Technology-Startups
+## Technology-Startups-Business
 
 * [The New New Thing: A Silicon Valley Story](https://www.goodreads.com/book/show/17986421-the-new-new-thing) - Michael Lewis **[\*]**
 * [The Hard Thing About Hard Things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) - Ben Horowitz
+* [It Doesn't Have to Be Crazy at Work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work) - Jason Fried, David Heinemeier Hansson
 
 ## Design-Branding-Marketing
 
