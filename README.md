@@ -95,6 +95,7 @@ Favorite books are marked with a **[\*]**
 * [Aphorisms](https://www.goodreads.com/book/show/28469089-aphorisms) - Franz Kafka
 * [On the Shortness of Life](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life) - Seneca
 * [Human, All Too Human](https://www.goodreads.com/book/show/451565.Human_All_Too_Human) - Friedrich Nietzsche **[\*]**
+* [The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity](https://www.goodreads.com/book/show/29093292-the-daily-stoic) - Ryan Holiday, Stephen Hanselman
 
 ## Sociology
 
